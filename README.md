@@ -90,6 +90,12 @@ Below is the main overview page of the Power BI dashboard. It provides a high-le
 
 ---
 
+## 📅 Project Timeline
+
+- **Original creation date:** January 2024  
+- **Upload to GitHub:** April 2025
+
+---
 ## 📬 Contact
 Author: Aymen Besbes
 
